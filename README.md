@@ -1,7 +1,7 @@
 # Mall-Sales
 
 ## About 
-This Project goals to explore the Sales Journy Data to understand top performing Product Name , Sales of the different Category.
+This Project goals to explore the Train Journy Data to understand top performing Product Name , Sales of the different Category.
 
 The Goals is to study how Sales stategies can be improved and optimized.
 
